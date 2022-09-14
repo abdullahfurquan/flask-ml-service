@@ -124,6 +124,10 @@ Open browser and go to http://localhost:8089/
 
 
 
+
+* sample successful run of the project in Azure Pipelines 
+
+
 ![alt text](https://github.com/abdullahfurquan/starter_file/blob/main/new.PNG)
 
 
