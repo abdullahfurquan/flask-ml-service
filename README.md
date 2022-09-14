@@ -1,6 +1,7 @@
-# Overview
+## First Project:  CI: Set Up Azure Cloud Shell
+Goto repo : https://github.com/abdullahfurquan/shell_azure_devops2
 
-Third :Continuous Delivery on Azure
+## Third Project :Continuous Delivery on Azure
 This project builds a CD pipeline using Azure Pipelines for a Python-based machine learning application.
 
 ## Project Plan
@@ -22,7 +23,7 @@ ssh-keygen -t rsa
 cat ~/.ssh/id_rsa.pub
 
 
-* ![alt text](https://github.com/abdullahfurquan/starter_file/blob/main/project_clonned_in_azure.PNG)
+![alt text](https://github.com/abdullahfurquan/starter_file/blob/main/project_clonned_in_azure.PNG)
 
 
 
