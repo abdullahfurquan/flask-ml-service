@@ -174,6 +174,8 @@ url : https://dev.azure.com/abdullahfurquan/Flask-ML-Deploy/_build/results?build
 
 ## Demo 
 
-* link Screencast on YouTube :  https://youtu.be/yTYuWA2xpBw
+* link Screencast on YouTube Part1:  https://youtu.be/yTYuWA2xpBw
+* link Screencast on YouTube Part1:  https://youtu.be/STZTXBrYluQ
+
 
 
