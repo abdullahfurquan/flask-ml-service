@@ -18,6 +18,7 @@ Return to the main branch
 * First of all set up SSH Keys in your azure cloud shell, add the id_rsa.pub key to your GitHub repo ( ssh keys) and then clone the project there.
 
 ssh-keygen -t rsa
+
 cat ~/.ssh/id_rsa.pub
 
 
