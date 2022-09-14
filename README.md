@@ -37,6 +37,10 @@ cat ~/.ssh/id_rsa.pub
 ![alt text](https://github.com/abdullahfurquan/starter_file/blob/main/app4_a.PNG)
 
 
+![alt text](https://github.com/abdullahfurquan/starter_file/blob/main/app_starting.PNG)
+
+
+
 ![alt text](https://github.com/abdullahfurquan/starter_file/blob/main/app6.PNG)
 
 
