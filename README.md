@@ -1,10 +1,7 @@
-### First Project:  CI: Set Up Azure Cloud Shell and Configure GitHub Actions !.
-Goto repo : https://github.com/abdullahfurquan/shell_azure_devops2
 
+### Project :Continuous Integration and Continuous Delivery on Azure
+In this project, you will build a Github repository from scratch and create a scaffolding that will assist you in performing both Continuous Integration and Continuous Delivery. You'll use Github Actions along with a Makefile, requirements.txt and application code to perform an initial lint, test, and install cycle. Next, you'll integrate this project with Azure Pipelines to enable Continuous Delivery to Azure App Service.
 
-
-### Second Project :Continuous Integration and Continuous Delivery on Azure
-This project builds a CI/CD pipeline using Azure Pipelines for a Python-based machine learning application.
 
 ## Project Plan
 
