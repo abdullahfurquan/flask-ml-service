@@ -128,6 +128,9 @@ Open browser and go to http://localhost:8089/
 * sample successful run of the project in Azure Pipelines 
 
 
+url : https://dev.azure.com/abdullahfurquan/Flask-ML-Deploy/_build/results?buildId=49&view=logs&j=eed83684-fd3b-5bd6-4bb2-01ee65c52a09
+
+
 ![alt text](https://github.com/abdullahfurquan/starter_file/blob/main/new.PNG)
 
 
