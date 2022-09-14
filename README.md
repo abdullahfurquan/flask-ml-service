@@ -3,8 +3,8 @@ Goto repo : https://github.com/abdullahfurquan/shell_azure_devops2
 
 
 
-### Second Project :Continuous Delivery on Azure
-This project builds a CD pipeline using Azure Pipelines for a Python-based machine learning application.
+### Second Project :Continuous Integration and Continuous Delivery on Azure
+This project builds a CI/CD pipeline using Azure Pipelines for a Python-based machine learning application.
 
 ## Project Plan
 Return to the main branch
