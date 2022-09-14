@@ -1,4 +1,4 @@
-### First Project:  CI: Set Up Azure Cloud Shell and Configure GitHub Actions
+### First Project:  CI: Set Up Azure Cloud Shell and Configure GitHub Actions .
 Goto repo : https://github.com/abdullahfurquan/shell_azure_devops2
 
 
