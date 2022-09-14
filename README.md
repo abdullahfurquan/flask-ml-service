@@ -7,7 +7,6 @@ Goto repo : https://github.com/abdullahfurquan/shell_azure_devops2
 This project builds a CI/CD pipeline using Azure Pipelines for a Python-based machine learning application.
 
 ## Project Plan
-Return to the main branch
 
 * A link to a Trello board for the project : https://trello.com/b/TOI3yMD0/udacityproject6
 * A link to a spreadsheet that includes the original and final project plan : https://github.com/abdullahfurquan/starter_file/blob/main/project-management-template.xlsx
@@ -33,6 +32,7 @@ cat ~/.ssh/id_rsa.pub
 * create a virtual env with python 3.7
 * Install the packages using:  make install
 * Run the command to start the app. 
+ 
  az webapp up --name eram --resource-group Azuredevops --runtime "PYTHON:3.7" (so the webapp name is flask-ml-lingchenzhu)
 * Wait until the webapp infrastructure is created. 
 
