@@ -116,6 +116,30 @@ Open browser and go to http://localhost:8089/
 
 
 ## Successful deploy of the project in Azure Pipelines Note the official documentation should be referred to and double checked as you setup CI/CD
+
+* Create a new service connection to Azure Webapp Service
+
+
+![alt text](https://github.com/abdullahfurquan/starter_file/blob/main/p_1.PNG)
+
+
+
+![alt text](https://github.com/abdullahfurquan/starter_file/blob/main/p_2.PNG)
+
+
+
+![alt text](https://github.com/abdullahfurquan/starter_file/blob/main/p_3.PNG )
+
+
+
+![alt text](https://github.com/abdullahfurquan/starter_file/blob/main/p_4.PNG)
+
+
+
+
+![alt text](https://github.com/abdullahfurquan/starter_file/blob/main/load_test_a.PNG)
+
+
 * Running Azure App Service from Azure Pipelines automatic deployment 
 
 
