@@ -24,6 +24,8 @@ cat ~/.ssh/id_rsa.pub
 
 * ![alt text](https://github.com/abdullahfurquan/starter_file/blob/main/project_clonned_in_azure.PNG)
 
+
+
 ## Project running on Azure Webapp Service
 * create a virtual env with python 3.7
 * Install the packages using:  make install
@@ -37,6 +39,8 @@ cat ~/.ssh/id_rsa.pub
 
 ![alt text](https://github.com/abdullahfurquan/starter_file/blob/main/app6.PNG)
 
+
+
 ## Make prediction
 * Update make_predict_azure_app.sh to have the webapp name eram in the POST target line
 
@@ -44,9 +48,15 @@ cat ~/.ssh/id_rsa.pub
 
 * az webapp log tail :
 
+
+
 ![alt text](https://github.com/abdullahfurquan/starter_file/blob/main/app2_a.PNG)
 
+
+
 * we can see log from,  by opeining url in a browser : https://eram.scm.azurewebsites.net/api/logs/docker
+
+
 
 ![alt text](https://github.com/abdullahfurquan/starter_file/blob/main/app1.PNG)
 
@@ -57,11 +67,19 @@ cat ~/.ssh/id_rsa.pub
 
 ![alt text](https://github.com/abdullahfurquan/starter_file/blob/main/make_all_a.PNG)
 
+
+
 ![alt text](https://github.com/abdullahfurquan/starter_file/blob/main/make_all_b.PNG)
+
+
 
 ![alt text](https://github.com/abdullahfurquan/starter_file/blob/main/make_all_c.PNG)
 
+
+
 * Output of a test run :Run: ./make_predict_azure_app.sh 
+
+
 
 ![alt text](https://github.com/abdullahfurquan/starter_file/blob/main/app5.PNG)
 
@@ -73,19 +91,33 @@ Install packgae locust: pip install locust
 run: locust -f locustfile.py
 Open browser and go to http://localhost:8089/
 
+
+
 ![alt text](https://github.com/abdullahfurquan/starter_file/blob/main/load_test_b.PNG)
+
+
 
 
 ![alt text](https://github.com/abdullahfurquan/starter_file/blob/main/load_test_a.PNG)
 
+
+
 ## Successful deploy of the project in Azure Pipelines Note the official documentation should be referred to and double checked as you setup CI/CD
 * Running Azure App Service from Azure Pipelines automatic deployment 
 
-![alt text](https://github.com/abdullahfurquan/starter_file/blob/main/pipeline_a.PNG)
+
 
 ![alt text](https://github.com/abdullahfurquan/starter_file/blob/main/pipeline_a.PNG)
 
+
+
 ![alt text](https://github.com/abdullahfurquan/starter_file/blob/main/pipeline_a.PNG)
+
+
+
+![alt text](https://github.com/abdullahfurquan/starter_file/blob/main/pipeline_a.PNG)
+
+
 
 ## Enhancements
 
