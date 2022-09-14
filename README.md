@@ -1,10 +1,9 @@
-## First Project:  CI: Set Up Azure Cloud Shell
+## First Project:  CI: Set Up Azure Cloud Shell and Configure GitHub Actions
 Goto repo : https://github.com/abdullahfurquan/shell_azure_devops2
 
-## Second Project : Configure GitHub Actions
 
 
-## Third Project :Continuous Delivery on Azure
+## Second Project :Continuous Delivery on Azure
 This project builds a CD pipeline using Azure Pipelines for a Python-based machine learning application.
 
 ## Project Plan
