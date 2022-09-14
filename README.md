@@ -105,6 +105,11 @@ Open browser and go to http://localhost:8089/
 
 
 
+## Successful deploy of the project in GitHub Actions
+
+![alt text](https://github.com/abdullahfurquan/starter_file/blob/main/ci%20github%20action.PNG)
+
+
 ## Successful deploy of the project in Azure Pipelines Note the official documentation should be referred to and double checked as you setup CI/CD
 * Running Azure App Service from Azure Pipelines automatic deployment 
 
